@@ -8,6 +8,7 @@
 "./README.md"
 "./__init__.py"
 "./includefile.conf"
+"./install.sh"
 "./prunefile.conf"
 "./prunefix.conf"
 "./release.nix"
